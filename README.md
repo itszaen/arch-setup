@@ -465,9 +465,7 @@ polychromatic
 	 zeitgeist-explorer
 
 Reference: http://zim-wiki.org/manual/Plugins.html
-and instant search plugin
-put instantsearch.py into [[~/.local/share/zim/plugins]]
-instantsearch.py is at [[~/Google Drive/Documents]]
+
 
 ## Android
 Android Debug Bridge
