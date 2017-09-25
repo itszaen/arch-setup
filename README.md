@@ -439,6 +439,15 @@ traceroute
 iptables
 tcsd
 
+## Driver
+wd719x-firmware
+aic94xx-firmware
+### Razer
+razer-drivers
+razer-driver-meta
+polychromatic
+
+
 ## Zim
 	python2-gtkspellcheck
 	gtkspell
